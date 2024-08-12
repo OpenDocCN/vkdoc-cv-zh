@@ -1,10 +1,10 @@
-# VKDoc 计算机视觉译文集（二）
+# VKDoc 计算机视觉译文集
 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
 > 敢同恶鬼争高下，不向霸王让寸分。——《七律·庆祝第二次核试验成功》
 
-* [在线阅读](https://cv2.flygon.net)
+* [在线阅读](https://vdcv.flygon.net)
 ## 下载
 
 ### Docker
